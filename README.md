@@ -2,6 +2,8 @@
 Capacitación: Git, bash y docker
 Integrante:
 - Alfredo Ismael Amaut Garcia
+
+o
 Scrum Master: 
 - Alfredo Ismael Amaut García
 
