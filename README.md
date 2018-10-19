@@ -2,6 +2,8 @@
 Capacitación: Git, bash y docker
 Integrante:
 - Alfredo Ismael Amaut Garcia
+Scrum Master: 
+- Alfredo Ismael Amaut García
 
 1. ¿Qué es y para qué sirve GIT? 
 - GIT es un software de control de versiones para los archivos de código en el desarrollo de un software o una página web. 
